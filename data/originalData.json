@@ -1,3 +1,124 @@
 {
- 
+  "customers": [
+    {
+      "id": "1",
+      "name": ["John", "Doe"],
+      "gender": "male",
+      "email": "john.doe@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip_code": "12345"
+      }
+    },
+    {
+      "id": "2",
+      "name": ["Jane", "Smith"],
+      "gender": "female",
+      "email": "jane.smith@example.com",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Othertown",
+        "state": "NY",
+        "zip_code": "67890"
+      }
+    },
+    {
+      "id": "3",
+      "name": ["Michael", "Johnson"],
+      "gender": "male",
+      "email": "michael.johnson@example.com",
+      "address": {
+        "street": "789 Oak St",
+        "city": "Anycity",
+        "state": "TX",
+        "zip_code": "54321"
+      }
+    },
+    {
+      "id": "4",
+      "name": ["Emily", "Williams"],
+      "gender": "female",
+      "email": "emily.williams@example.com",
+      "address": {
+        "street": "101 Maple St",
+        "city": "Somewhere",
+        "state": "FL",
+        "zip_code": "98765"
+      }
+    },
+    {
+      "id": "5",
+      "name": ["David", "Brown"],
+      "gender": "male",
+      "email": "david.brown@example.com",
+      "address": {
+        "street": "222 Pine St",
+        "city": "Nowhere",
+        "state": "GA",
+        "zip_code": "13579"
+      }
+    },
+    {
+      "id": "6",
+      "name": ["Sarah", "Jones"],
+      "gender": "female",
+      "email": "sarah.jones@example.com",
+      "address": {
+        "street": "333 Cedar St",
+        "city": "Everytown",
+        "state": "MI",
+        "zip_code": "24680"
+      }
+    },
+    {
+      "id": "7",
+      "name": ["James", "Anderson"],
+      "gender": "male",
+      "email": "james.anderson@example.com",
+      "address": {
+        "street": "444 Oak St",
+        "city": "Anothercity",
+        "state": "WA",
+        "zip_code": "97531"
+      }
+    },
+    {
+      "id": "8",
+      "name": ["Emma", "Martinez"],
+      "gender": "female",
+      "email": "emma.martinez@example.com",
+      "address": {
+        "street": "555 Elm St",
+        "city": "Hereville",
+        "state": "NC",
+        "zip_code": "86420"
+      }
+    },
+    {
+      "id": "9",
+      "name": ["Daniel", "Garcia"],
+      "gender": "male",
+      "email": "daniel.garcia@example.com",
+      "address": {
+        "street": "666 Walnut St",
+        "city": "Nowhere",
+        "state": "OH",
+        "zip_code": "24680"
+      }
+    },
+    {
+      "id": "10",
+      "name": ["Olivia", "Lopez"],
+      "gender": "female",
+      "email": "olivia.lopez@example.com",
+      "address": {
+        "street": "777 Maple St",
+        "city": "Sometown",
+        "state": "PA",
+        "zip_code": "97531"
+      }
+    }
+  ]
 }
